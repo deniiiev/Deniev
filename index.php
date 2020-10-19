@@ -61,7 +61,7 @@
 
                         <span class="social">
                             <a href="https://www.linkedin.com/in/deniev/"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://github.com/deniiiev/"><i class="fab fa-github-square"></i></a>
+<!--                            <a href="https://github.com/deniiiev/"><i class="fab fa-github-square"></i></a>-->
                         </span>
 
                         <span class="email">magomed@deniev.com</span>

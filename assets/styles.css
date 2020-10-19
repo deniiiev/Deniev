@@ -137,8 +137,23 @@ h1.name {
 
 /* Projects */
 
+.projects-desc {
+    margin-top: -30px;
+    padding-bottom: 30px !important;
+    color: #555;
+}
 .preview {
     position: relative;
+}
+.project-git {
+    left: unset !important;
+    right: 15px;
+}
+.project-git a {
+    background-color: #828282 !important;
+}
+.project-git a:hover {
+    background-color: #989898 !important;
 }
 .project-demo {
     position: absolute;
